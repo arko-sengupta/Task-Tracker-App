@@ -55,12 +55,12 @@ This section includes all the major tools/frameworks that are used built the pro
 * Once your tasks are complete delete them by clicking <b>"It's Done"</b> button.
 * It'll be displayed at the <b>Completed Tasks</b> section.
 * Even you can clear out the tasks displayed at the <b>Completed Tasks</b> section too.
-* As it's integrated with <b>FireBase</b> so your Tasks are safe with the Task-Tracker App. You can log-it-out and again log-it-in whenever you get time to complete your remaining tasks.
+* As it's integrated with <b>MySQL</b> so your Tasks are safe with the Task-Tracker App. You can log-it-out and again log-it-in whenever you get time to complete your remaining tasks.
 
 ### Prerequisites
 
-* You should only have a Google Account.
-* If you didn't had one, you can create at [Link](https://accounts.google.com/signup/v2/webcreateaccount?biz=false&cc=IN&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F0%2FAddMailService&dsh=S285515474%3A1669541158880909&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F0%2FAddMailService&ifkv=ARgdvAtoHVrNb37l7dfL9-CTyCNf-GJVZqqlYc5O9c7dDSY5RMffUqBHvACN2G7GM4NWzkk6ZWxk)
+* You need to Create your Account once in this Application.
+* You can simply create it by entering your Name, Gmail, Password and Confirm Password.
 
 
 </br>
