@@ -17,7 +17,7 @@
     <a href="https://github.com/arko-sengupta/Task-Tracker-App/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="#" style = {color:white;}>View Demo</a>
     ·
     <a href="https://github.com/arko-sengupta/Task-Tracker-App/pulls">Send a Pull Request</a>
   </p>
