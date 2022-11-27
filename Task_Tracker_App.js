@@ -72,7 +72,7 @@ function addTask() {
             swal({
                 title: `${Task} : Task Already Added!`,
                 text: `Complete it first`,
-                icon: "error",
+                icon: "warning",
             });
 
             document.getElementById('new-task').value = '';
